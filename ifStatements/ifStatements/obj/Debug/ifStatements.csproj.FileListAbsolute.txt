@@ -1,0 +1,6 @@
+C:\Users\wwjp-mi\source\repos\ifStatements\ifStatements\bin\Debug\ifStatements.exe.config
+C:\Users\wwjp-mi\source\repos\ifStatements\ifStatements\bin\Debug\ifStatements.exe
+C:\Users\wwjp-mi\source\repos\ifStatements\ifStatements\bin\Debug\ifStatements.pdb
+C:\Users\wwjp-mi\source\repos\ifStatements\ifStatements\obj\Debug\ifStatements.csprojAssemblyReference.cache
+C:\Users\wwjp-mi\source\repos\ifStatements\ifStatements\obj\Debug\ifStatements.exe
+C:\Users\wwjp-mi\source\repos\ifStatements\ifStatements\obj\Debug\ifStatements.pdb

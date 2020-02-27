@@ -1,0 +1,6 @@
+C:\Users\wwjp-mi\source\repos\stringBuilderClassMethods\stringBuilderClassMethods\obj\Debug\stringBuilderClassMethods.csprojAssemblyReference.cache
+C:\Users\wwjp-mi\source\repos\stringBuilderClassMethods\stringBuilderClassMethods\bin\Debug\stringBuilderClassMethods.exe.config
+C:\Users\wwjp-mi\source\repos\stringBuilderClassMethods\stringBuilderClassMethods\bin\Debug\stringBuilderClassMethods.exe
+C:\Users\wwjp-mi\source\repos\stringBuilderClassMethods\stringBuilderClassMethods\bin\Debug\stringBuilderClassMethods.pdb
+C:\Users\wwjp-mi\source\repos\stringBuilderClassMethods\stringBuilderClassMethods\obj\Debug\stringBuilderClassMethods.exe
+C:\Users\wwjp-mi\source\repos\stringBuilderClassMethods\stringBuilderClassMethods\obj\Debug\stringBuilderClassMethods.pdb

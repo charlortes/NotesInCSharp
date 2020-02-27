@@ -1,0 +1,5 @@
+C:\Users\wwjp-mi\source\repos\StringClassMethods\StringClassMethods\obj\Debug\StringClassMethods.csprojAssemblyReference.cache
+C:\Users\wwjp-mi\source\repos\StringClassMethods\StringClassMethods\bin\Debug\StringClassMethods.exe
+C:\Users\wwjp-mi\source\repos\StringClassMethods\StringClassMethods\bin\Debug\StringClassMethods.pdb
+C:\Users\wwjp-mi\source\repos\StringClassMethods\StringClassMethods\obj\Debug\StringClassMethods.exe
+C:\Users\wwjp-mi\source\repos\StringClassMethods\StringClassMethods\obj\Debug\StringClassMethods.pdb

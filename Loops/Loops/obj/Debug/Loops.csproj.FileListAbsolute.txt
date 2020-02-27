@@ -1,0 +1,6 @@
+C:\Users\wwjp-mi\source\repos\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\wwjp-mi\source\repos\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\wwjp-mi\source\repos\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\wwjp-mi\source\repos\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\wwjp-mi\source\repos\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\wwjp-mi\source\repos\Loops\Loops\obj\Debug\Loops.pdb

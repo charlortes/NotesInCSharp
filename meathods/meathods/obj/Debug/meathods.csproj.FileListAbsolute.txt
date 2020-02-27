@@ -1,0 +1,6 @@
+C:\Users\wwjp-mi\source\repos\meathods\meathods\bin\Debug\meathods.exe.config
+C:\Users\wwjp-mi\source\repos\meathods\meathods\bin\Debug\meathods.exe
+C:\Users\wwjp-mi\source\repos\meathods\meathods\bin\Debug\meathods.pdb
+C:\Users\wwjp-mi\source\repos\meathods\meathods\obj\Debug\meathods.csprojAssemblyReference.cache
+C:\Users\wwjp-mi\source\repos\meathods\meathods\obj\Debug\meathods.exe
+C:\Users\wwjp-mi\source\repos\meathods\meathods\obj\Debug\meathods.pdb
